@@ -5,6 +5,7 @@ class Pantalon{
   public String modelo;
 
   void mostrar(){
+    System.out.println("\nDatos del Pantalon ---> ");
     System.out.println("Marca: " +marca);
     System.out.println("Color: " +color);
     System.out.println("Talle: " +talle);
