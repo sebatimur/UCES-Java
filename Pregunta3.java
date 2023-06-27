@@ -10,7 +10,7 @@ public class Pregunta3 {
 
         for (int i = 0; i < texto.length(); i++) {
             char caracter = texto.charAt(i);
-            if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u' || caracter ==h 'A' || caracter == 'E' || caracter == 'I' || caracter == 'O' || caracter == 'U')
+            if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u' || caracter == 'A' || caracter == 'E' || caracter == 'I' || caracter == 'O' || caracter == 'U')
             {
                 contadorVocales++;
             }
